@@ -1,40 +1,50 @@
-# Hi there, I'm Najib Hosssain 👋
+# Hello, I'm Najib Hossain 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+Welcome to my GitHub profile! I'm a passionate and dedicated developer with a focus on building high-quality Web Apps. Here, you'll find a collection of my open-source projects, contributions, and repositories.
 
 ## About Me
 
-I am a passionate developer with a love for creating impactful projects and learning new technologies.
+- 🔭 Currently working on: Social Media App with React.js
+- 🌱 Learning: Redux Toolkit
+- 👯 I’m looking to collaborate on: N/A
+- 🤔 Ask me about: TypeScript or React Projects
+- 💬 How to reach me: instagram @najib__hos
+- 📫 How to reach me: najibhossn@gmail.com
+- ⚡ Fun fact: I'm actually a fast learner and I enjoy it!
 
-- 🌱 I’m currently learning Redux Toolkit.
-- 📫 How to reach me: najibhossn@gmail.com 
+## Technologies & Tools
 
-## Skills
+I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: TailWind CSS, React JS
-- **Tools**: Git, VSCode
+- **Frameworks**: Tailwind CSS, React
+- **Tools**: Git, AppWrite, VSCode
 
-## Projects
+## My GitHub Stats
 
-Here are some of my notable projects:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### Employee Management System
+## Featured Repositories
 
-- **Description**: Admins and Employees can easily manage their tasks.
-- **Tech Stack**: React JS, Tainwind CSS, Daisy UI
-- **Repo**: N/A
+Here are a few of my most notable repositories:
 
+- [**Project 1**](https://github.com/YOUR_USERNAME/project1) - A brief description of your project.
+- [**Project 2**](https://github.com/YOUR_USERNAME/project2) - A brief description of your project.
+- [**Project 3**](https://github.com/YOUR_USERNAME/project3) - A brief description of your project.
+
+Feel free to explore my repositories for more!
 
 ## Connect with Me
 
+
 - [Email](najibhossn@gmail.com)
 
+## Contributions
 
-## GitHub Stats
+I'm always open to collaborating on exciting new projects! If you have any interesting ideas or need help with your open-source project, feel free to reach out.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+> "The best way to predict the future is to create it." – Abraham Lincoln
 
-
+Thank you for visiting my profile. Happy coding! 🚀
