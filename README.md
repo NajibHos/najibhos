@@ -28,9 +28,8 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 Here are a few of my most notable repositories:
 
-- [**Project 1**](https://github.com/YOUR_USERNAME/project1) - A brief description of your project.
-- [**Project 2**](https://github.com/YOUR_USERNAME/project2) - A brief description of your project.
-- [**Project 3**](https://github.com/YOUR_USERNAME/project3) - A brief description of your project.
+- [**Job Portal**](https://github.com/YOUR_USERNAME/project1) - It makes job seekers easier to find a good job.
+
 
 Feel free to explore my repositories for more!
 
