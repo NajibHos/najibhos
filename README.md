@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 
 ## About Me
 
-- 🔭 Currently working on: Social Media App with React.js
+- 🔭 Currently working on: Job Portal App with React
 - 🌱 Learning: Redux Toolkit
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 Ask me about: TypeScript or React Projects
@@ -18,7 +18,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks**: Tailwind CSS, React
-- **Tools**: Git, AppWrite, VSCode
+- **Tools**: Git, Firebase, SupaBase, VSCode
 
 ## My GitHub Stats
 
