@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: Tailwind CSS, React
+- **Frameworks and Libraries**: Tailwind CSS, React, Redux Toolkit
 - **Tools**: Git, Firebase, SupaBase, VSCode
 
 ## My GitHub Stats
