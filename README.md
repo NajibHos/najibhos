@@ -36,7 +36,8 @@ Feel free to explore my repositories for more!
 ## Connect with Me
 
 
-- [Email](najibhossn@gmail.com)
+- [Email](mailto:najibhossn@gmail.com)
+- [Instagram](https://www.instagram.com/najib__hos/)
 
 ## Contributions
 
