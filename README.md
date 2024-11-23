@@ -37,7 +37,7 @@ Feel free to explore my repositories for more!
 
 
 - [Email](mailto:najibhossn@gmail.com)
-- [Instagram](https://www.instagram.com/najib__hos/)
+- [Instagram](target="blank" https://www.instagram.com/najib__hos/)
 
 ## Contributions
 
