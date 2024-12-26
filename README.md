@@ -18,7 +18,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks and Libraries**: Tailwind CSS, React, Redux Toolkit
-- **Tools**: Git, Firebase, SupaBase, VSCode
+- **Tools**: Git, Firebase, SupaBase, VSCode, Varcel
 
 ## My GitHub Stats
 
