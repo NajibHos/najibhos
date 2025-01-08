@@ -18,7 +18,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks and Libraries**: Tailwind CSS, React, AppWrite
-- **Tools**: Git, Github, Cursor IDE, VSCode, Varcel
+- **Tools**: ChatGPT, Git, Github, Cursor IDE, VSCode, Varcel
 
 ## My GitHub Stats
 
