@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 - 🌱 Learning: TypeScript
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 Ask me about: React Projects
-- 💬 How to reach me: instagram @najib__hos
-- 📫 How to reach me: najibhossn@gmail.com
+- 💬 How to reach me on instagram: @najib__hos
+- 📫 How to reach me on email: najibhossn@gmail.com
 - ⚡ Fun fact: I'm actually a fast learner and I enjoy it!
 
 ## Technologies & Tools
