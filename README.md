@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 
 ## About Me
 
-- 🔭 Currently working on: Job Portal App with React
-- 🌱 Learning: Redux Toolkit
+- 🔭 Currently working on: Idea Tracker App with React and AppWrite
+- 🌱 Learning: TypeScript
 - 👯 I’m looking to collaborate on: N/A
-- 🤔 Ask me about: TypeScript or React Projects
+- 🤔 Ask me about: React Projects
 - 💬 How to reach me: instagram @najib__hos
 - 📫 How to reach me: najibhossn@gmail.com
 - ⚡ Fun fact: I'm actually a fast learner and I enjoy it!
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks and Libraries**: Tailwind CSS, React, Redux Toolkit
-- **Tools**: Git, Firebase, SupaBase, VSCode, Varcel
+- **Frameworks and Libraries**: Tailwind CSS, React, AppWrite
+- **Tools**: Git, Github, Cursor IDE, VSCode, Varcel
 
 ## My GitHub Stats
 
@@ -28,7 +28,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 Here are a few of my most notable repositories:
 
-- [**Job Portal**](https://github.com/YOUR_USERNAME/project1) - It makes job seekers easier to find a good job.
+- [**Idea Tracker APP**](https://github.com/YOUR_USERNAME/project1) - It helps to manage ideas on a single app like update their status, mark as completed or delete it, save for later, etc.
 
 
 Feel free to explore my repositories for more!
