@@ -36,9 +36,11 @@ Feel free to explore my repositories for more!
 ## Connect with Me
 
 
+- [portfolio](https://portfolio-web-app-weld.vercel.app/)
 - [Email](mailto:najibhossn@gmail.com)
 - [Instagram](https://www.instagram.com/najib__hos/)
 - [Facebook](https://www.facebook.com/najibhere)
+
 
 ## Contributions
 
