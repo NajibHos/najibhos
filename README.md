@@ -28,7 +28,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 Here are a few of my most notable repositories:
 
-- [**EasyTeam**]([https://github.com/NajibHos/EasyTeam]) - EasyTeam is a modern team management system designed to streamline task assignments, track progress, and enhance productivity.
+- [**EasyTeam**](https://github.com/NajibHos/EasyTeam) - EasyTeam is a modern team management system designed to streamline task assignments, track progress, and enhance productivity.
 
 
 Feel free to explore my repositories for more!
