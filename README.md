@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 
 ## About Me
 
-- 🔭 Currently working on: Idea Tracker App with React and AppWrite
-- 🌱 Learning: TypeScript
+- 🔭 Currently working on: EasyNote - A note taking app built with React, React Quill and Appwrite
+- 🌱 Learning: React 19 and TypeScript
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 Ask me about: React Projects
 - 💬 How to reach me on instagram: @najib__hos
@@ -28,7 +28,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 Here are a few of my most notable repositories:
 
-- [**Idea Tracker APP**](https://github.com/YOUR_USERNAME/project1) - It helps to manage ideas on a single app like update their status, mark as completed or delete it, save for later, etc.
+- [**EasyTeam**]([https://github.com/NajibHos/EasyTeam]) - EasyTeam is a modern team management system designed to streamline task assignments, track progress, and enhance productivity.
 
 
 Feel free to explore my repositories for more!
