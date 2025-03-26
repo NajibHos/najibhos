@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a fo
 ## About Me
 
 - 🔭 Currently working on: EasyNote - A note taking app built with React, React Quill and Appwrite
-- 🌱 Learning: React 19 and TypeScript
+- 🌱 Learning: TypeScript
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 Ask me about: React Projects
 - 💬 How to reach me on instagram: @najib__hos
@@ -18,7 +18,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks and Libraries**: Tailwind CSS, React, AppWrite
-- **Tools**: ChatGPT, Git, Github, Cursor IDE, VSCode, Varcel
+- **Tools**: ChatGPT, Git, Github, VSCode, Varcel
 
 ## My GitHub Stats
 
@@ -29,6 +29,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 Here are a few of my most notable repositories:
 
 - [**EasyTeam**](https://github.com/NajibHos/EasyTeam) - EasyTeam is a modern team management system designed to streamline task assignments, track progress, and enhance productivity.
+- [**MoneyFlow**](https://github.com/NajibHos/MoneyFlow) - MoneyFlow is a simple and intuitive income, expense, and savings tracker designed to help you manage your finances effortlessly. 
 
 
 Feel free to explore my repositories for more!
