@@ -1,6 +1,6 @@
 # Hello, I'm Najib Hossain 👋
 
-Welcome to my GitHub profile! I'm a passionate and dedicated developer with a focus on building high-quality Web Apps. Here, you'll find a collection of my open-source projects, contributions, and repositories.
+Welcome to my GitHub profile. I'm a passionate and dedicated developer with a focus on building high-quality Web Apps! Here, you'll find a collection of my open-source projects, contributions, and repositories.
 
 ## About Me
 
