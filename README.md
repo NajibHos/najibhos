@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a passionate and dedicated developer with a fo
 
 ## About Me
 
-- 🔭 Currently working on: EasyNote - A note taking app built with React, React Quill and Appwrite
+- 🔭 Currently working on: N/A
 - 🌱 Learning: TypeScript
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 Ask me about: React Projects
@@ -28,7 +28,7 @@ I work with a variety of technologies and tools. Some of my favorites include:
 
 Here are a few of my most notable repositories:
 
-- [**EasyTeam**](https://github.com/NajibHos/EasyTeam) - EasyTeam is a modern team management system designed to streamline task assignments, track progress, and enhance productivity.
+- [**EasyFocus**](https://github.com/NajibHos/EasyFocus) - EasyFocus is a modern, minimal productivity tool designed to help individuals stay organized and focused.
 - [**MoneyFlow**](https://github.com/NajibHos/MoneyFlow) - MoneyFlow is a simple and intuitive income, expense, and savings tracker designed to help you manage your finances effortlessly. 
 
 
@@ -37,10 +37,10 @@ Feel free to explore my repositories for more!
 ## Connect with Me
 
 
-- [portfolio](https://portfolio-web-app-weld.vercel.app/)
+- [Portfolio](https://portfolio-web-app-weld.vercel.app/)
 - [Email](mailto:najibhossn@gmail.com)
 - [Instagram](https://www.instagram.com/najib__hos/)
-- [Facebook](https://www.facebook.com/najibhere)
+- [Facebook](https://www.facebook.com/profile.php?id=61576005703711)
 
 
 ## Contributions
