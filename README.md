@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate and dedicated developer with a fo
 ## About Me
 
 - 🔭 Currently working on: N/A
-- 🌱 Learning: TypeScript
+- 🌱 Learning: Next.js
 - 👯 I’m looking to collaborate on: N/A
 - 🤔 Ask me about: React Projects
 - 💬 How to reach me on instagram: @najib__hos
@@ -16,9 +16,11 @@ Welcome to my GitHub profile. I'm a passionate and dedicated developer with a fo
 
 I work with a variety of technologies and tools. Some of my favorites include:
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks and Libraries**: Tailwind CSS, React, AppWrite
-- **Tools**: ChatGPT, Git, Github, VSCode, Varcel
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks and Libraries**: React, Tailwind CSS  
+- **Tools**: Appwrite, Git, GitHub, VS Code, ChatGPT, Varcel
+- **Soft Skills**: Problem Solving, Communication, Teamwork, Discipline, Time Management, Continuous Learning
+- **Others**: State Management, REST API Integration, Component-Based Architecture, Real-Time Features, User Authentication, Database Management, Responsive Design
 
 ## My GitHub Stats
 
