@@ -1,26 +1,12 @@
-# Hello, I'm Najib Hossain 👋
+# Hi, I'm Najib Hossain 👋
 
-Welcome to my GitHub profile. I'm a passionate and dedicated developer with a focus on building high-quality Web Apps! Here, you'll find a collection of my open-source projects, contributions, and repositories.
+I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow as a developer. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to build scalable **SaaS applications.**
+I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner College, Bogura.*** What drives me is my **passion for coding, problem-solving, and building real-world tools that make a difference.**
 
-## About Me
+- **Tech Stack:** Next.js, React, TypeScript, Prisma ORM, Supabase, Tailwind CSS, JavaScript, HTML, CSS, Git, Github.
+- **Soft Skills**: Problem Solving, Communication, Teamwork, Discipline, Time Management, Continuous Learning.
+- **Additional expertise**: App Router, SSR, SSG, API Route & REST API Integration, State Management, User Authentication, Responsive Design.
 
-- 🔭 Currently working on: N/A
-- 🌱 Learning: N/A
-- 👯 I’m looking to collaborate on: N/A
-- 🤔 Ask me about: Front-end(React & NextJS) Projects
-- 💬 How to reach me on instagram: @najib__hos
-- 📫 How to reach me on email: najibhossn@gmail.com
-- ⚡ Fun fact: I'm actually a fast learner and I enjoy it!
-
-## Technologies & Tools
-
-I work with a variety of technologies and tools. Some of my favorites include:
-
-- **Languages**: TypeScript, JavaScript, HTML, CSS
-- **Frameworks and Libraries**: NextJS, React, Tailwind CSS  
-- **Tools**: Better Auth, Prisma, Supabase, Appwrite, Git, Github, VS Code, Vercel
-- **Soft Skills**: Problem Solving, Communication, Teamwork, Discipline, Time Management, Continuous Learning
-- **Others**: App Router, SSR, SSG, API Route & REST API Integration, State Management, User Authentication, Responsive Design
   
 ## My GitHub Stats
 
