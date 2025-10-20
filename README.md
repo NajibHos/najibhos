@@ -1,6 +1,6 @@
 # Hi, I'm Najib Hossain 👋
 
-I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow as a developer. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** build scalable **SaaS applications.**
+I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow at my web development career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
 I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner College, Bogura.** What drives me is my **passion for coding, problem-solving, and building real-world tools that make a difference.**
 
 
