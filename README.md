@@ -45,10 +45,3 @@ I'm always open to collaborating on exciting new projects! If you have any inter
 > "The best way to predict the future is to create it." – Abraham Lincoln
 
 Thank you for visiting my profile. Happy coding! 🚀
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
