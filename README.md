@@ -1,6 +1,6 @@
 # Hi, I'm Najib Hossain 👋
 
-I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow at my web development career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
+I’m currently exploring new technologies, upgrading my skills, trying to build meaningful tools, and seeking opportunities to grow at my web development career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
 I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner College, Bogura.** What drives me is my **passion for coding, problem-solving, and building real-world tools that make a difference.**
 
 
@@ -20,10 +20,9 @@ I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner C
 
 ## Featured Repositories
 
-Here are a few of my most notable repositories:
+Here are a few of my most notable projects:
 
-- [**Invoza**](https://github.com/NajibHos/Invoza) - Invoza is a modern web application for individuals to manage projects, invoices, and tasks all in one place.
-- [**MoneyFlow**](https://github.com/NajibHos/MoneyFlow) - MoneyFlow is a simple and intuitive income, expense, and savings tracker designed to help you manage your finances effortlessly. 
+- [**ReadmeBit**](https://readmebit.com) - Create your GitHub README easily with widget based editing, markdown toolbar, local storage support, and instant GitHub style preview. 
 
 
 Feel free to explore my repositories for more!
