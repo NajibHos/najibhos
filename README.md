@@ -12,11 +12,11 @@ I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner C
 - **Additional expertise**: App Router, SSR, SSG, API Route & REST API Integration, Context API, User Authentication, Responsive Design.
 
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NajibHos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NajibHos&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NajibHos&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NajibHos&theme=radical)
 
 
 ## Featured Repositories
