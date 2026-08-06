@@ -1,6 +1,6 @@
 # Hi, I'm Najib Hossain 👋
 
-I’m currently exploring new technologies, upgrading my skills, trying to build meaningful tools, and seeking opportunities to grow at my web development career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
+I’m currently exploring new technologies, upgrading my skills, trying to build meaningful tools, and seeking opportunities to grow at my web development career. My main focus is **front-end development** with Next.js and Typescript, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
 Currently, I'm studying **Computer Science and Engineering** at **Dhaka International University**. What drives me is my **passion for coding, problem-solving, and building real-world tools that make a difference.**
 
 
